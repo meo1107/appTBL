@@ -5,14 +5,14 @@
 
 ### Ảnh chụp màn hình
 
-<a href="https://imgur.com/yt9ucFX"><img src="https://i.imgur.com/yt9ucFX.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/yt9ucFX"><img src="https://i.imgur.com/yt9ucFX.png" title="source: imgur.com" width=40% /></a>
 
-<a href="https://imgur.com/fCDIzdi"><img src="https://i.imgur.com/fCDIzdi.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/fCDIzdi"><img src="https://i.imgur.com/fCDIzdi.png" title="source: imgur.com" width=40% /></a>
 
-<a href="https://imgur.com/57wMjw4"><img src="https://i.imgur.com/57wMjw4.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/57wMjw4"><img src="https://i.imgur.com/57wMjw4.png" title="source: imgur.com" width=40% /></a>
 
-<a href="https://imgur.com/xuqxxO1"><img src="https://i.imgur.com/xuqxxO1.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/xuqxxO1"><img src="https://i.imgur.com/xuqxxO1.png" title="source: imgur.com" width=40% /></a>
 
-<a href="https://imgur.com/xuqxxO1"><img src="https://i.imgur.com/xuqxxO1.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/xuqxxO1"><img src="https://i.imgur.com/xuqxxO1.png" title="source: imgur.com" width=40% /></a>
 
-<a href="https://imgur.com/blNIlmj"><img src="https://i.imgur.com/blNIlmj.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/blNIlmj"><img src="https://i.imgur.com/blNIlmj.png" title="source: imgur.com" width=40% /></a>
